@@ -1,6 +1,6 @@
 <div align="center">
 
-[![RangeLead Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,50:1a2f55,100:FF6B00&height=280&section=header&text=RangeLead&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=Verified%20US%20Business%20Contacts.%20Built%20for%20B2B%20Closers.&descAlignY=68&descSize=22&animation=fadeIn)](https://rangelead.com)
+[![RangeLead Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,50:1a2f55,100:FF6B00&height=280&width=1200&section=header&text=RangeLead&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=Verified%20US%20Business%20Contacts.%20Built%20for%20B2B%20Closers.&descAlignY=68&descSize=22&animation=fadeIn)](https://rangelead.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FF6B00&center=true&vCenter=true&width=700&lines=Find+businesses+with+problems+you+can+solve;Verified+US+business+contacts+%E2%80%94+Buy+once%2C+prospect+forever;Stop+wasting+outreach+on+bad+data;Built+for+B2B+closers%2C+agencies+%26+sales+teams;Problem+indicators+%E2%80%94+RangeLead%27s+unfair+advantage)](https://rangelead.com)
 
